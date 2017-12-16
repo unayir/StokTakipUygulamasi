@@ -1,0 +1,14 @@
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.ORM.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.ORM.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.Entity.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.Entity.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\obj\Debug\StokTakipUygulamasi.ORM.csprojResolveAssemblyReference.cache
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\obj\Debug\StokTakipUygulamasi.ORM.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.ORM\obj\Debug\StokTakipUygulamasi.ORM.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.ORM.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.ORM.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\bin\Debug\StokTakipUygulamasi.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\obj\Debug\StokTakipUygulamasi.ORM.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\obj\Debug\StokTakipUygulamasi.ORM.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.ORM\obj\Debug\StokTakipUygulamasi.ORM.pdb

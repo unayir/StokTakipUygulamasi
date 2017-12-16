@@ -1,0 +1,10 @@
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.Entity\bin\Debug\StokTakipUygulamasi.Entity.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.Entity\bin\Debug\StokTakipUygulamasi.Entity.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.Entity\obj\Debug\StokTakipUygulamasi.Entity.csprojResolveAssemblyReference.cache
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.Entity\obj\Debug\StokTakipUygulamasi.Entity.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.Entity\obj\Debug\StokTakipUygulamasi.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.Entity\obj\Debug\StokTakipUygulamasi.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.Entity\obj\Debug\StokTakipUygulamasi.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.Entity\obj\Debug\StokTakipUygulamasi.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.Entity\bin\Debug\StokTakipUygulamasi.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.Entity\bin\Debug\StokTakipUygulamasi.Entity.pdb

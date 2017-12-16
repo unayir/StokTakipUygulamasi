@@ -1,0 +1,32 @@
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.exe.config
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.exe
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.Entity.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.ORM.dll
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.Entity.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.ORM.pdb
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.csprojResolveAssemblyReference.cache
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.Form1.resources
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.Properties.Resources.resources
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.csproj.GenerateResource.Cache
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.exe
+c:\users\umut nayir\documents\visual studio 2015\Projects\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.exe.config
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.exe
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.exe
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.Entity.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.ORM.dll
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.Entity.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.ORM.pdb
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.Form1.resources
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.Properties.Resources.resources
+C:\Users\Wissen\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.csproj.GenerateResource.Cache
+C:\Users\Umut NAYIR\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.exe.config
+C:\Users\Umut NAYIR\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.exe
+C:\Users\Umut NAYIR\Desktop\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.pdb
+C:\Users\Umut NAYIR\Desktop\Projeler\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\bin\Debug\StokTakipUygulamasi.WinFormUI.exe.config
+C:\Users\Umut NAYIR\Desktop\Projeler\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.exe
+C:\Users\Umut NAYIR\Desktop\Projeler\StokTakipUygulamasi\StokTakipUygulamasi.WinFormUI\obj\Debug\StokTakipUygulamasi.WinFormUI.pdb
